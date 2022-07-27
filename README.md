@@ -18,3 +18,8 @@ Crypto Stock Crash EDA
 4 
 NYC Taxi Fare Prediction: Data Cleaning, EDA, Prediction Model
 NYC Taxi Fare Report and Explanation
+
+5
+Psych research
+Created a dynamic database framework of 100,000+ data points using Python to enable future analysis tasks
+

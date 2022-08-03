@@ -1,9 +1,7 @@
-# Welcome to my portfolio!
-Here's a select collection of my academic and hobby data science projects 
+Here's a select collection of Haris Hasan's academic and hobby data science projects
 
-
-
-## Client Evaluation from Informal, Unstructured Meeting Notes 📔
+## 📔 [Can we use unstructured meeting notes to figure out the best clients?](https://github.com/harishasan001/data-sci-portfolio/blob/main/Meeting%20Notes%20Project%20_%20Haris%20Hasan.pdf) 
+Client Evaluation from Informal, Unstructured Meeting Notes
 Evaluated 800+ informal meeting notes to manually quantify data provided by Salesforce
 Conducted sentiment analysis and opinion mining to maximise total sales for CooperVision through Excel and R.
 Achieved highest grade standard for analysis work and presentation

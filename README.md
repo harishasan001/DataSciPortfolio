@@ -3,6 +3,17 @@ Hey! I'm Haris Hasan and here's a select collection of my academic and hobby dat
 
 Clicking on the headings will take you to my code / presentation
 
+## Table of Contents:
+[🚕 Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio#-can-we-predict-nyc-taxi-cab-fares)
+<br> [📔 Can we use unstructured meeting notes to identify the best potential clients?](https://github.com/harishasan001/data-sci-portfolio#-can-we-use-unstructured-meeting-notes-to-identify-the-best-potential-clients) 
+<br> [😷 How can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio#-how-can-we-use-covid-19-survey-data-to-identify-good-investments)
+<br> [📉 Crypto Stock Crash EDA](https://github.com/harishasan001/data-sci-portfolio#-crypto-stock-crash-eda)
+<br> [🧠 Psych Research](https://github.com/harishasan001/data-sci-portfolio#-psych-research) 
+
+
+
+
+
 ## [🚕 Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction.ipynb)
 #### End-to-End ML model: Data Cleaning, Exploratory Data Analysis, Supervised Linear Regression Model
 I wrote out a fully detailed report of my methods and learnings [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction%20Report%20%2B%20Explanation.pdf) where I explain my thoughts alongside the code. It's quite long so here are some screenshots that should serve well as a TL;DR:

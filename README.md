@@ -1,10 +1,20 @@
 Hey! I'm Haris Hasan and here's a select collection my academic and hobby data science projects.
 <br> Check me out on LinkedIn [here](http://www.linkedin.com/in/harishasan001)!
 
+Click on any of the headings to view my code / presentation
+
 ## [🚕 Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction.ipynb)
 #### End-to-End ML model: Data Cleaning, Exploratory Data Analysis, Supervised Linear Regression Model
-A fully detailed explanation and report of my methods and learnings can be found [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction%20Report%20%2B%20Explanation.pdf).
-<br> Here are some snippets of that report
+I wrote out a fully detailed report of my methods and learnings [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction%20Report%20%2B%20Explanation.pdf). The report details my thoughts alongside the code. I understant it's quite long. Heres a TL;DR:
+
+***Context***
+<p><img src="NYC Taxi Fare Report intro.PNG" width="487.2" height="280.8"></p>  
+
+***An example of my reasoning and methods***
+<p><img src="NYC Taxi Fare exploring.PNG" width="487.2" height="280.8"></p>
+
+***Results***
+<p><img src="NYC Taxi Fare outcome.PNG" width=""600 height="90"></p>
 
 
 

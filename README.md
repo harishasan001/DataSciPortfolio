@@ -1,9 +1,11 @@
 Hey! I'm Haris Hasan and here's a select collection my academic and hobby data science projects.
-<br> Also, check me out on LinkedIn [here](http://www.linkedin.com/in/harishasan001)!
+<br> Check me out on LinkedIn [here](http://www.linkedin.com/in/harishasan001)!
 
 ## [🚕 Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction.ipynb)
-#### End-to-End ML model: Data Cleaning, EDA, Prediction Model
-[NYC Taxi Fare Report and Explanation](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction%20Report%20%2B%20Explanation.pdf)
+#### End-to-End ML model: Data Cleaning, Exploratory Data Analysis, Supervised Linear Regression Model
+A fully detailed explanation and report of my methods and learnings can be found [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction%20Report%20%2B%20Explanation.pdf).
+<br> Here are some snippets of that report
+
 
 
 ## [📔 Can we use unstructured meeting notes to identify the best potential clients?](https://github.com/harishasan001/data-sci-portfolio/blob/main/Meeting%20Notes%20Project%20_%20Haris%20Hasan.pdf) 

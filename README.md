@@ -1,23 +1,27 @@
-Here's a select collection of Haris Hasan's academic and hobby data science projects
+Hey! I'm Haris Hasan and here's a select collection my academic and hobby data science projects.
+<br> Also, check me out on LinkedIn [here](http://www.linkedin.com/in/harishasan001)!
 
-## 📔 [Can we use unstructured meeting notes to identify the best potential clients?](https://github.com/harishasan001/data-sci-portfolio/blob/main/Meeting%20Notes%20Project%20_%20Haris%20Hasan.pdf) 
+## [🚕 Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction.ipynb)
+#### End-to-End ML model: Data Cleaning, EDA, Prediction Model
+[NYC Taxi Fare Report and Explanation](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction%20Report%20%2B%20Explanation.pdf)
+
+
+## [📔 Can we use unstructured meeting notes to identify the best potential clients?](https://github.com/harishasan001/data-sci-portfolio/blob/main/Meeting%20Notes%20Project%20_%20Haris%20Hasan.pdf) 
 #### Sentiment analysis, Opinion mining
 - Client Evaluation from Informal, Unstructured Meeting Notes
 - Evaluated 800+ informal meeting notes to manually quantify data provided by Salesforce
 - Conducted sentiment analysis and opinion mining to maximise total sales for CooperVision through Excel and R.
 - Achieved highest grade standard for analysis work and presentation
 
-## 😷 How can we use COVID-19 survey data to identify good investments? 
+## [😷 How can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio/blob/main/COVID-19%20Data%20Investment%20Project%20_%20Haris%20Hasan.pdf)
 Justified a novel hypothesis for investment into artificial-intelligence-based hiring technologies with a focus on rehiring opportunities using COVID-19 survey data using Microsoft Azure 
 Achieved highest grade standard for analysis work and presentation
 
-## 📉 Crypto Stock Crash EDA 
+## [📉 Crypto Stock Crash EDA](https://github.com/harishasan001/data-sci-portfolio/blob/main/Crypto%20Stock%20Crash%20Exploratory%20Data%20Analysis.ipynb) 
 
-## 🚕 NYC Taxi Fare Prediction:
- Data Cleaning, EDA, Prediction Model
-NYC Taxi Fare Report and Explanation
 
-## 🧠 [Psych Research](https://github.com/harishasan001/data-sci-portfolio/blob/main/Psych%20Research%20.ipynb) 
+## [🧠 Psych Research](https://github.com/harishasan001/data-sci-portfolio/blob/main/Psych%20Research%20.ipynb) 
 
 Created a dynamic database framework of 100,000+ data points using Python to enable future analysis tasks
 
+<br> I'd love to hear if any of these projects could have been better! Feel free to reach out hasan35@purdue.edu

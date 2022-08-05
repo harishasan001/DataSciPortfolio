@@ -29,12 +29,28 @@ I wrote out a fully detailed report of my methods and learnings [here](https://g
 <p><img src="NYC Taxi Fare outcome.PNG" width=""600 height="90"></p>
 
 
-## [📔 Can we use unstructured meeting notes to identify the best potential clients?](https://github.com/harishasan001/data-sci-portfolio/blob/main/Meeting%20Notes%20Project%20_%20Haris%20Hasan.pdf) 
-#### Sentiment analysis, Opinion mining
-- Client Evaluation from Informal, Unstructured Meeting Notes
-- Evaluated 800+ informal meeting notes to manually quantify data provided by Salesforce
-- Conducted sentiment analysis and opinion mining to maximise total sales for CooperVision through Excel and R.
-- Achieved highest grade standard for analysis work and presentation
+## [📔 Can we use meeting notes to identify the best clients?](https://github.com/harishasan001/data-sci-portfolio/blob/main/Meeting%20Notes%20Project%20_%20Haris%20Hasan.pdf) 
+#### Data Analysis, Sentiment Analysis, Opinion Mining
+
+Here we manually went through 800 comments from meeting notes over about 8 weeks, where each comment was
+rated on a scale of 1-5 in 5 different categories (with one of the categories just being a confidence
+rating)
+
+Then, we used Microsoft Azure to look consider the sentiment analysis and key phrases, and compare the results with what we found in our manual analysis.
+Azure’s analysis tended to have more positive and negative sentiments, whereas in our manual analysis we gave more mixed sentiments. Also, we found that Azure identified more key phrases that we did not identify in our analysis, but some of these words may or may not be useful depending on the context that they are used in the comment.
+
+Finally, we used the sales data to determine the correlation between the sales and dimension scores, and found the correlation coefficient for each of the five categories to reach our conclusions.
+
+***An example of some of my analysis***
+<p>
+  <img src="Meeting Notes Project 1.PNG"><img src="Meeting Notes Project 2.PNG"><img src="Meeting Notes 3.PNG">
+</p>
+
+
+***Results***
+We realized that Account Penetration was perhaps the most important Dimension Score because it demonstrated the greatest Correlation Coefficient
+
+Practically this means that High Penetration phrases such as “Met with Dr, met with doc”, “Met with office manager”, “met with OM”, “Interested”, etc. can lead to greater Total Sales in the past, present and future.
 
 ## [😷 How can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio/blob/main/COVID-19%20Data%20Investment%20Project%20_%20Haris%20Hasan.pdf)
 Justified a novel hypothesis for investment into artificial-intelligence-based hiring technologies with a focus on rehiring opportunities using COVID-19 survey data using Microsoft Azure 
@@ -46,5 +62,3 @@ Achieved highest grade standard for analysis work and presentation
 ## [🧠 Psych Research](https://github.com/harishasan001/data-sci-portfolio/blob/main/Psych%20Research%20.ipynb) 
 
 Created a dynamic database framework of 100,000+ data points using Python to enable future analysis tasks
-
-<br> I'd love to hear if any of these projects could have been better! Feel free to reach out hasan35@purdue.edu

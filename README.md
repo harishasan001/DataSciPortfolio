@@ -1,17 +1,18 @@
 Hey! I'm Haris Hasan and here's a select collection of my academic and hobby data science projects.
-<br> Check me out on LinkedIn [here](http://www.linkedin.com/in/harishasan001)!
+<br> Check me out on LinkedIn [here](http://www.linkedin.com/in/harishasan001) and reach out at hasan35@purdue.edu!
 
-Clicking on the headings will take you to my code / presentation
+(Clicking on the headings will take you to the code / presentation)
 
-## Table of Contents:
-[🚕 Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio#-can-we-predict-nyc-taxi-cab-fares)
-<br> [📔 Can we use unstructured meeting notes to identify the best potential clients?](https://github.com/harishasan001/data-sci-portfolio#-can-we-use-unstructured-meeting-notes-to-identify-the-best-potential-clients) 
-<br> [😷 How can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio#-how-can-we-use-covid-19-survey-data-to-identify-good-investments)
-<br> [📉 Crypto Stock Crash EDA](https://github.com/harishasan001/data-sci-portfolio#-crypto-stock-crash-eda)
-<br> [🧠 Psych Research](https://github.com/harishasan001/data-sci-portfolio#-psych-research) 
+______
 
+### Table of Contents:
+- [Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio#-can-we-predict-nyc-taxi-cab-fares)
+- [Can we use meeting notes to identify the best clients?](https://github.com/harishasan001/data-sci-portfolio#-can-we-use-unstructured-meeting-notes-to-identify-the-best-potential-clients) 
+- [How can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio#-how-can-we-use-covid-19-survey-data-to-identify-good-investments)
+- [Crypto Stock Crash EDA](https://github.com/harishasan001/data-sci-portfolio#-crypto-stock-crash-eda)
+- [Psych Research](https://github.com/harishasan001/data-sci-portfolio#-psych-research) 
 
-
+______
 
 
 ## [🚕 Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction.ipynb)

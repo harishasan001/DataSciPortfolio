@@ -17,6 +17,7 @@ ______
 
 ## [🚕 Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction.ipynb)
 #### End-to-End ML model: Data Cleaning, Exploratory Data Analysis, Supervised Linear Regression Model
+##### Languages/tools used: Python: Numpy, Pandas, Seaborn, Scikit-learn
 I wrote out a fully detailed report of my methods and learnings [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction%20Report%20%2B%20Explanation.pdf) where I explain my thoughts alongside the code. It's quite long so here are some screenshots that should serve well as a TL;DR:
 
 ***Context***
@@ -31,13 +32,13 @@ I wrote out a fully detailed report of my methods and learnings [here](https://g
 
 ## [📔 Can we use meeting notes to identify the best clients?](https://github.com/harishasan001/data-sci-portfolio/blob/main/Meeting%20Notes%20Project%20_%20Haris%20Hasan.pdf) 
 #### Data Analysis, Sentiment Analysis, Opinion Mining
+##### Languages/tools used: MS Azure, Excel, R
 
-Here we manually went through 800 comments from meeting notes over about 8 weeks, where each comment was
-rated on a scale of 1-5 in 5 different categories (with one of the categories just being a confidence
-rating)
+The goal was to consider what kind of insights we can get from meeting notes between the business and clients. It was important for us to figure out what kinds of words could suggest high sales potential.
 
-Then, we used Microsoft Azure to look consider the sentiment analysis and key phrases, and compare the results with what we found in our manual analysis.
-Azure’s analysis tended to have more positive and negative sentiments, whereas in our manual analysis we gave more mixed sentiments. Also, we found that Azure identified more key phrases that we did not identify in our analysis, but some of these words may or may not be useful depending on the context that they are used in the comment.
+We manually went through 800 comments from meeting notes over about 8 weeks, rating them in 5 different categories
+
+Then, we used Microsoft Azure to consider the sentiment analysis and key phrases, and compare the results with what we found in our manual analysis.
 
 Finally, we used the sales data to determine the correlation between the sales and dimension scores, and found the correlation coefficient for each of the five categories to reach our conclusions.
 
@@ -48,6 +49,7 @@ Finally, we used the sales data to determine the correlation between the sales a
 
 
 ***Results***
+<br>
 We realized that Account Penetration was perhaps the most important Dimension Score because it demonstrated the greatest Correlation Coefficient
 
 Practically this means that High Penetration phrases such as “Met with Dr, met with doc”, “Met with office manager”, “met with OM”, “Interested”, etc. can lead to greater Total Sales in the past, present and future.

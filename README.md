@@ -3,7 +3,6 @@ Hey! I'm Haris Hasan and here's a select collection of my academic and hobby dat
 
 (Clicking on the headings will take you to the code / presentation)
 
-______
 
 ### Table of Contents:
 - [Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio#-can-we-predict-nyc-taxi-cab-fares)

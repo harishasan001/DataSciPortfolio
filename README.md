@@ -8,7 +8,7 @@ ______
 ### Table of Contents:
 - [Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio#-can-we-predict-nyc-taxi-cab-fares)
 - [Can we use meeting notes to identify the best clients?](https://github.com/harishasan001/data-sci-portfolio#-can-we-use-unstructured-meeting-notes-to-identify-the-best-potential-clients) 
-- [How can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio#-how-can-we-use-covid-19-survey-data-to-identify-good-investments)
+- [Can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio#-how-can-we-use-covid-19-survey-data-to-identify-good-investments)
 - [Crypto Stock Crash EDA](https://github.com/harishasan001/data-sci-portfolio#-crypto-stock-crash-eda)
 - [Psych Research](https://github.com/harishasan001/data-sci-portfolio#-psych-research) 
 
@@ -27,7 +27,6 @@ I wrote out a fully detailed report of my methods and learnings [here](https://g
 
 ***Results***
 <p><img src="NYC Taxi Fare outcome.PNG" width=""600 height="90"></p>
-
 
 
 ## [📔 Can we use unstructured meeting notes to identify the best potential clients?](https://github.com/harishasan001/data-sci-portfolio/blob/main/Meeting%20Notes%20Project%20_%20Haris%20Hasan.pdf) 

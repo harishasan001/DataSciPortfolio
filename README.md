@@ -8,7 +8,7 @@ Hey! I'm Haris Hasan and here's a select collection of my academic and hobby dat
 - [Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio#-can-we-predict-nyc-taxi-cab-fares)
 - [Can we use meeting notes to identify the best clients?](https://github.com/harishasan001/data-sci-portfolio#-can-we-use-meeting-notes-to-identify-the-best-clients) 
 - [Can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio#-how-can-we-use-covid-19-survey-data-to-identify-good-investments)
-- [Crypto Stock Crash EDA](https://github.com/harishasan001/data-sci-portfolio#-crypto-stock-crash-eda)
+- [What can we learn from crypto stock data?](https://github.com/harishasan001/data-sci-portfolio#-what-can-we-learn-from-crypto-stock-data)
 - [Psych Research](https://github.com/harishasan001/data-sci-portfolio#-psych-research) 
 
 ______
@@ -57,7 +57,7 @@ Practically this means that High Penetration phrases such as “Met with Dr, met
 Justified a novel hypothesis for investment into artificial-intelligence-based hiring technologies with a focus on rehiring opportunities using COVID-19 survey data using Microsoft Azure 
 Achieved highest grade standard for analysis work and presentation
 
-## [📉 Crypto Stock Crash EDA](https://github.com/harishasan001/data-sci-portfolio/blob/main/Crypto%20Stock%20Crash%20Exploratory%20Data%20Analysis.ipynb)
+## [📉 What can we learn from crypto stock data?](https://github.com/harishasan001/data-sci-portfolio/blob/main/Crypto%20Stock%20Crash%20Exploratory%20Data%20Analysis.ipynb)
 #### Data Analysis, Data Visualization
 ##### Languages/tools used: Python: Pandas, Numpy, Matplotlib, Seaborn
 

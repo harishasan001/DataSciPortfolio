@@ -74,7 +74,7 @@ Here, I took the live price data of the top ten crypto stocks from Yahoo finance
 - Can we attempt to predict future stock behaviour?
   - Here I implemented the Monte Carlo method to predict the stock price of Coinbase. 
 <br><kbd><img src="crypto stock prediction.PNG"></kbd></br>
-  - However, I am wary of this method as the final result intuitively feels highly improbable. The value of crypto stock often seems to be tied closely with culture which is something very difficult to account for in simulations and predictions. Perhaps this is a data science project worth exploring itself?
+  - However, I am wary of this method as the final result intuitively feels highly improbable. The value of crypto stock often seems to be tied closely with culture which is something very difficult to account for in simulations and predictions. Perhaps accounting for cultural sentiment in stock value predictions is a data science project worth exploring itself?
 
 
 ## [🧠 Psych Research](https://github.com/harishasan001/data-sci-portfolio/blob/main/Psych%20Research%20.ipynb) 

@@ -7,7 +7,7 @@ Hey! I'm Haris Hasan and here's a select collection of my academic and hobby dat
 ### Table of Contents:
 - [Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio#-can-we-predict-nyc-taxi-cab-fares) An End-to-End Machine Learning model in Python
 - [Can we use meeting notes to identify the best clients?](https://github.com/harishasan001/data-sci-portfolio#-can-we-use-meeting-notes-to-identify-the-best-clients) Sentiment Analysis using MS Azure and R
-- [Can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio#-how-can-we-use-covid-19-survey-data-to-identify-good-investments) Data Analysis, Interpretation, and Business Application
+- [Can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio#-how-can-we-use-covid-19-survey-data-to-identify-good-investments) Data Analysis and Business Application
 - [What can we learn from crypto stock data?](https://github.com/harishasan001/data-sci-portfolio#-what-can-we-learn-from-crypto-stock-data) Exploratory Data Analysis and Data Visualization in Python
 - [Psych Research](https://github.com/harishasan001/data-sci-portfolio#-psych-research) Data Manipulation in Python
 

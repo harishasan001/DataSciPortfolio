@@ -58,7 +58,7 @@ Justified a novel hypothesis for investment into artificial-intelligence-based h
 Achieved highest grade standard for analysis work and presentation
 
 ## [📉 What can we learn from crypto stock data?](https://github.com/harishasan001/data-sci-portfolio/blob/main/Crypto%20Stock%20Crash%20Exploratory%20Data%20Analysis.ipynb)
-#### Data Analysis, Data Visualization
+#### Exploratory Data Analysis, Data Visualization
 ##### Languages/tools used: Python: Pandas, Numpy, Matplotlib, Seaborn
 
 Here, I took the live price data of the top ten crypto stocks from Yahoo finance and sought to answer some questions as I explored it. 

@@ -49,13 +49,30 @@ Finally, we used the sales data to determine the correlation between the sales a
 
 ***Results***
 <br>
-We realized that Account Penetration was perhaps the most important Dimension Score because it demonstrated the greatest Correlation Coefficient
+We realized that Account Penetration was perhaps the most important Dimension Score because it demonstrated the greatest Correlation Coefficient. Our work merited the highest grade standard
 
 Practically this means that High Penetration phrases such as “Met with Dr, met with doc”, “Met with office manager”, “met with OM”, “Interested”, etc. can lead to greater Total Sales in the past, present and future.
 
+We achieved the highest standard for our analysis work and presentation.
+
+
 ## [😷 How can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio/blob/main/COVID-19%20Data%20Investment%20Project%20_%20Haris%20Hasan.pdf)
-Justified a novel hypothesis for investment into artificial-intelligence-based hiring technologies with a focus on rehiring opportunities using COVID-19 survey data using Microsoft Azure 
-Achieved highest grade standard for analysis work and presentation
+#### Data Analysis, Business Application
+
+Took a COVID-19 survey data dashboard and extensively analysed data points to identify investment oppportunities. 
+
+***An example of some of my analysis***
+<br><kbd><img src="Covid Survey Investment Analysis.PNG"></kbd></br>
+
+
+Subsequently justified a novel hypothesis for investment into artificial-intelligence-based hiring technologies with a focus on rehiring opportunities. 
+
+<br><kbd><img src="Covid investment hypothesis.PNG"></kbd></br>
+
+My partner and I were fortunate to achieve the highest grade standard for our analysis work and presentation.
+
+
+
 
 ## [📉 What can we learn from crypto stock data?](https://github.com/harishasan001/data-sci-portfolio/blob/main/Crypto%20Stock%20Crash%20Exploratory%20Data%20Analysis.ipynb)
 #### Exploratory Data Analysis, Data Visualization

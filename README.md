@@ -9,7 +9,7 @@ Hey! I'm Haris Hasan and here's a select collection of my academic and hobby dat
 - [Can we use meeting notes to identify the best clients?](https://github.com/harishasan001/data-sci-portfolio#-can-we-use-meeting-notes-to-identify-the-best-clients) Sentiment Analysis using MS Azure and R
 - [Can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio#-how-can-we-use-covid-19-survey-data-to-identify-good-investments) Data Analysis and Business Application
 - [What can we learn from crypto stock data?](https://github.com/harishasan001/data-sci-portfolio#-what-can-we-learn-from-crypto-stock-data) Exploratory Data Analysis and Data Visualization in Python
-- [Psych Research](https://github.com/harishasan001/data-sci-portfolio#-psych-research) Data Manipulation in Python
+- [How can I best condense millions of data points across many different files?](https://github.com/harishasan001/data-sci-portfolio#-psych-research) Data Manipulation in Python
 
 ______
 
@@ -94,6 +94,10 @@ Here, I took the live price data of the top ten crypto stocks from Yahoo finance
   - However, I am wary of this method as the final result intuitively feels highly improbable. The value of crypto stock often seems to be tied closely with culture which is something very difficult to account for in simulations and predictions. Perhaps accounting for cultural sentiment in stock value predictions is a data science project worth exploring itself?
 
 
-## [🧠 Psych Research](https://github.com/harishasan001/data-sci-portfolio/blob/main/Psych%20Research%20.ipynb) 
+## [🧠 How can I best condense millions of data points across many different files?](https://github.com/harishasan001/data-sci-portfolio/blob/main/Psych%20Research%20.ipynb) 
+#### Data Manipulation
+##### Languages/tools used: Python: Pandas
 
-Created a dynamic database framework of 100,000+ data points using Python to enable future analysis tasks
+I had the opportunity to work as a research intern in a Psychology Laboratory for an academic year and this was one of the projects that I worked on.
+
+Here, I combined 10+ .csv files that contained millions of points of raw data we had captured from live EEG experiments. I was able to create a database that was easy to look at and straightforward to work with for any subsequent tasks.

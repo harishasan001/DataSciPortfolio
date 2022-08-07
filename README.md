@@ -1,4 +1,4 @@
-Hey! I'm Haris Hasan ([LinkedIn](http://www.linkedin.com/in/harishasan001)) and here's a select collection of some of academic and hobby data science projects:
+Hey! I'm Haris Hasan ([my LinkedIn](http://www.linkedin.com/in/harishasan001)) and here's a select collection of some of academic and hobby data science projects:
 
 
 

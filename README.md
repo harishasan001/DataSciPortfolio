@@ -1,17 +1,20 @@
-Hey! I'm Haris Hasan and here's a select collection of some of my more interesting academic and hobby data science projects.
-Check me out on LinkedIn [here](http://www.linkedin.com/in/harishasan001) and reach out at hasan35@purdue.edu!
+Hey! I'm Haris Hasan ([LinkedIn](http://www.linkedin.com/in/harishasan001)) and this is a select collection of some of my more interesting academic and hobby data science projects.
 
+
+
+| Project Section | Description  |
+| :------------- | :------------- |
+| [Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio#-can-we-predict-nyc-taxi-cab-fares)  | End-to-End Machine Learning model in Python  |
+| [Can we use meeting notes to identify the best clients?](https://github.com/harishasan001/data-sci-portfolio#-can-we-use-meeting-notes-to-identify-the-best-clients)  | Sentiment Analysis using MS Azure, R, and Excel  |
+| [What can we learn from crypto stock data?](https://github.com/harishasan001/data-sci-portfolio#-what-can-we-learn-from-crypto-stock-data) | Exploratory Data Analysis and Data Visualization in Python |
+|[How can I best condense millions of data points across many different files?](https://github.com/harishasan001/data-sci-portfolio#-how-can-i-best-condense-millions-of-data-points-across-many-different-files) | Data Manipulation in Python |
+| [Can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio#-how-can-we-use-covid-19-survey-data-to-identify-good-investments) | Data Analysis and Business Application|
+
+<br>
 Note: The headings in each project section link directly to the relevant code/presentation
-
-________
-
-### Table of Contents:
-- [Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio#-can-we-predict-nyc-taxi-cab-fares) *End-to-End Machine Learning model in Python*
-- [Can we use meeting notes to identify the best clients?](https://github.com/harishasan001/data-sci-portfolio#-can-we-use-meeting-notes-to-identify-the-best-clients) *Sentiment Analysis using MS Azure, R, and Excel*
-- [What can we learn from crypto stock data?](https://github.com/harishasan001/data-sci-portfolio#-what-can-we-learn-from-crypto-stock-data) *Exploratory Data Analysis and Data Visualization in Python*
-- [How can I best condense millions of data points across many different files?](https://github.com/harishasan001/data-sci-portfolio#-how-can-i-best-condense-millions-of-data-points-across-many-different-files) *Data Manipulation in Python*
-- [Can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio#-how-can-we-use-covid-19-survey-data-to-identify-good-investments) *Data Analysis and Business Application*
-
+<br>
+<br>
+Also! If you're experienced in Data Science (or its adjacent fields), I'd love to hear your feedback and critique so please reach out at hasan35@purdue.edu and let me know what I could have done better!
 
 ______
 

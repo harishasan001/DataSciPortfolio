@@ -5,11 +5,12 @@ Hey! I'm Haris Hasan and here's a select collection of my academic and hobby dat
 
 
 ### Table of Contents:
-- [Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio#-can-we-predict-nyc-taxi-cab-fares) End-to-End Machine Learning model in Python
-- [Can we use meeting notes to identify the best clients?](https://github.com/harishasan001/data-sci-portfolio#-can-we-use-meeting-notes-to-identify-the-best-clients) Sentiment Analysis using MS Azure and R
-- [Can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio#-how-can-we-use-covid-19-survey-data-to-identify-good-investments) Data Analysis and Business Application
-- [What can we learn from crypto stock data?](https://github.com/harishasan001/data-sci-portfolio#-what-can-we-learn-from-crypto-stock-data) Exploratory Data Analysis and Data Visualization in Python
-- [How can I best condense millions of data points across many different files?](https://github.com/harishasan001/data-sci-portfolio#-psych-research) Data Manipulation in Python
+- [Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio#-can-we-predict-nyc-taxi-cab-fares) *End-to-End Machine Learning model in Python*
+- [Can we use meeting notes to identify the best clients?](https://github.com/harishasan001/data-sci-portfolio#-can-we-use-meeting-notes-to-identify-the-best-clients) *Sentiment Analysis using MS Azure, R, and Excel*
+- [What can we learn from crypto stock data?](https://github.com/harishasan001/data-sci-portfolio#-what-can-we-learn-from-crypto-stock-data) *Exploratory Data Analysis and Data Visualization in Python*
+- [How can I best condense millions of data points across many different files?](https://github.com/harishasan001/data-sci-portfolio#-how-can-i-best-condense-millions-of-data-points-across-many-different-files) *Data Manipulation in Python*
+- [Can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio#-how-can-we-use-covid-19-survey-data-to-identify-good-investments) *Data Analysis and Business Application*
+
 
 ______
 
@@ -55,25 +56,6 @@ Practically this means that High Penetration phrases such as “Met with Dr, met
 
 We achieved the highest standard for our analysis work and presentation.
 
-
-## [😷 How can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio/blob/main/COVID-19%20Data%20Investment%20Project%20_%20Haris%20Hasan.pdf)
-#### Data Analysis, Business Application
-
-Took a COVID-19 survey data dashboard and extensively analysed data points to identify investment oppportunities. 
-
-***An example of some of my analysis***
-<br><kbd><img src="Covid Survey Investment Analysis.PNG"></kbd></br>
-
-
-Subsequently justified a novel hypothesis for investment into artificial-intelligence-based hiring technologies with a focus on rehiring opportunities. 
-
-<br><kbd><img src="Covid investment hypothesis.PNG"></kbd></br>
-
-My partner and I were fortunate to achieve the highest grade standard for our analysis work and presentation.
-
-
-
-
 ## [📉 What can we learn from crypto stock data?](https://github.com/harishasan001/data-sci-portfolio/blob/main/Crypto%20Stock%20Crash%20Exploratory%20Data%20Analysis.ipynb)
 #### Exploratory Data Analysis, Data Visualization
 ##### Languages/tools used: Python: Pandas, Numpy, Matplotlib, Seaborn
@@ -93,11 +75,34 @@ Here, I took the live price data of the top ten crypto stocks from Yahoo finance
 <br><kbd><img src="crypto stock prediction.PNG"></kbd></br>
   - However, I am wary of this method as the final result intuitively feels highly improbable. The value of crypto stock often seems to be tied closely with culture which is something very difficult to account for in simulations and predictions. Perhaps accounting for cultural sentiment in stock value predictions is a data science project worth exploring itself?
 
-
 ## [🧠 How can I best condense millions of data points across many different files?](https://github.com/harishasan001/data-sci-portfolio/blob/main/Psych%20Research%20.ipynb) 
 #### Data Manipulation
 ##### Languages/tools used: Python: Pandas
 
-I had the opportunity to work as a research intern in a Psychology Laboratory for an academic year and this was one of the projects that I worked on.
+I had the opportunity to work as a research intern in a psychology laboratory for an academic year at Purdue and this was one of the projects that I worked on.
 
 Here, I combined 10+ .csv files that contained millions of points of raw data we had captured from live EEG experiments. I was able to create a database that was easy to look at and straightforward to work with for any subsequent tasks.
+
+
+## [😷 How can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio/blob/main/COVID-19%20Data%20Investment%20Project%20_%20Haris%20Hasan.pdf)
+#### Data Analysis, Business Application
+
+Took a COVID-19 survey data dashboard and extensively analysed data points to identify investment oppportunities. 
+
+***An example of some of my analysis***
+<br><kbd><img src="Covid Survey Investment Analysis.PNG"></kbd></br>
+
+
+Subsequently justified a novel hypothesis for investment into artificial-intelligence-based hiring technologies with a focus on rehiring opportunities. 
+
+<br><kbd><img src="Covid investment hypothesis.PNG"></kbd></br>
+
+My partner and I were fortunate to achieve the highest grade standard for our analysis work and presentation.
+
+
+
+
+
+
+
+

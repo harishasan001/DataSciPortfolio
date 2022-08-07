@@ -51,9 +51,9 @@ Finally, we used the sales data to determine the correlation between the sales a
 
 ***Results***
 <br>
-We realized that Account Penetration was perhaps the most important Dimension Score because it demonstrated the greatest Correlation Coefficient. Our work merited the highest grade standard
+We realized that Account Penetration was perhaps the most important Dimension Score because it demonstrated the greatest Correlation Coefficient.
 
-Practically this means that High Penetration phrases such as “Met with Dr, met with doc”, “Met with office manager”, “met with OM”, “Interested”, etc. can lead to greater Total Sales in the past, present and future.
+Practically, this means that High Penetration phrases such as “Met with Dr", "met with doc”, “Met with office manager”, “met with OM”, “Interested”, etc. may result in greater Total Sales in the past, present and future.
 
 We achieved the highest standard for our analysis work and presentation.
 

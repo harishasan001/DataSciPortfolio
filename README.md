@@ -1,5 +1,5 @@
 Hey! I'm Haris Hasan and here's a select collection of some of my more interesting academic and hobby data science projects.
-<br> Check me out on LinkedIn [here](http://www.linkedin.com/in/harishasan001) and reach out at hasan35@purdue.edu!
+Check me out on LinkedIn [here](http://www.linkedin.com/in/harishasan001) and reach out at hasan35@purdue.edu!
 
 (Clicking on the headings will take you to the code / presentation)
 

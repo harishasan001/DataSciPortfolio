@@ -1,4 +1,4 @@
-Hey! I'm Haris Hasan ([LinkedIn](http://www.linkedin.com/in/harishasan001)) and this is a select collection of some of my more interesting academic and hobby data science projects.
+Hey! I'm Haris Hasan ([LinkedIn](http://www.linkedin.com/in/harishasan001)) and here's a select collection of some of my more interesting academic and hobby data science projects:
 
 
 
@@ -14,7 +14,7 @@ Hey! I'm Haris Hasan ([LinkedIn](http://www.linkedin.com/in/harishasan001)) and 
 Note: The headings in each project section link directly to the relevant code/presentation
 <br>
 <br>
-Also! If you're experienced in Data Science (or its adjacent fields), I'd love to hear your feedback and critique so please reach out at hasan35@purdue.edu and let me know what I could have done better!
+Also! If you're experienced in Data Science (or its adjacent fields), I'd love to hear your feedback and critique so please reach out at **hasan35@purdue.edu** and let me know what I could have done better!
 
 ______
 

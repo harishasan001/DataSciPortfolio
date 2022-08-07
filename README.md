@@ -39,7 +39,7 @@ The goal was to consider what kind of insights we can get from meeting notes bet
 
 We manually went through 800 comments from meeting notes over about 8 weeks, rating them in 5 different categories
 
-Then, we used Microsoft Azure to consider the sentiment analysis and key phrases, and compare the results with what we found in our manual analysis.
+Then we analyzed the key phrases and sentiments using Microsoft Azure, and compared the results with what we found in our manual analysis.
 
 Finally, we used the sales data to determine the correlation between the sales and dimension scores, and found the correlation coefficient for each of the five categories to reach our conclusions.
 

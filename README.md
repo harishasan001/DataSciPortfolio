@@ -3,6 +3,7 @@ Check me out on LinkedIn [here](http://www.linkedin.com/in/harishasan001) and re
 
 Clicking on any of the headings will take you to the code or presentation in question
 
+________
 
 ### Table of Contents:
 - [Can we predict NYC taxi cab fares?](https://github.com/harishasan001/data-sci-portfolio#-can-we-predict-nyc-taxi-cab-fares) *End-to-End Machine Learning model in Python*

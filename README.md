@@ -10,9 +10,7 @@ Hey! I'm Haris Hasan ([my LinkedIn](http://www.linkedin.com/in/harishasan001)) a
 |[How can I best condense millions of data points across many different files?](https://github.com/harishasan001/data-sci-portfolio#-how-can-i-best-condense-millions-of-data-points-across-many-different-files) | Data Manipulation in Python |
 | [Can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio#-how-can-we-use-covid-19-survey-data-to-identify-good-investments) | Data Analysis and Business Application|
 
-<br>
-Note: The headings in each project section link directly to the relevant code/presentation
-<br>
+
 <br>
 Also! If you're experienced in Data Science (or its adjacent fields), I'd love to hear your feedback and critique so please reach out at 
 hasan35@purdue.edu

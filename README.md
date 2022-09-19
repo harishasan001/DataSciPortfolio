@@ -11,8 +11,7 @@ Hey! I'm Haris Hasan ([my LinkedIn](http://www.linkedin.com/in/harishasan001)) a
 | [Can we use COVID-19 survey data to identify good investments?](https://github.com/harishasan001/data-sci-portfolio#-how-can-we-use-covid-19-survey-data-to-identify-good-investments) | Data Analysis and Business Application|
 
 
-<br>
-Also! If you're experienced in Data Science (or its adjacent fields), I'd love to hear your feedback and critique so please reach out at 
+Also, if you're experienced in Data Science (or its adjacent fields), I'd love to hear your feedback and critique so please reach out at 
 hasan35@purdue.edu
 and let me know what I could have done better!
 

@@ -21,7 +21,7 @@ ______
 ## 🚕 Can we predict NYC taxi cab fares? 
 #### End-to-End ML model: Data Cleaning, Exploratory Data Analysis, Supervised Linear Regression Model
 ##### Languages/tools used: Python: Numpy, Pandas, Seaborn, Scikit-learn
-##### View my code [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction.ipynb)
+##### View my full project code [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction.ipynb)
 
 I wrote out a fully detailed report of my methods and learnings [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/NYC%20Taxi%20Fare%20Prediction%20Report%20%2B%20Explanation.pdf) where I explain my thoughts alongside the code. It's quite long so here are some screenshots that should serve well as a TL;DR:
 
@@ -38,7 +38,7 @@ I wrote out a fully detailed report of my methods and learnings [here](https://g
 ## 📔 Can we use meeting notes to identify the best clients?
 #### Data Analysis, Sentiment Analysis, Opinion Mining
 ##### Languages/tools used: MS Azure, Excel, R
-##### View my presentation [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/Meeting%20Notes%20Project%20_%20Haris%20Hasan.pdf)
+##### View my full project presentation [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/Meeting%20Notes%20Project%20_%20Haris%20Hasan.pdf)
 
 
 The goal was to consider what kind of insights we can get from meeting notes between the business and clients. It was important for us to figure out what kinds of words could suggest high sales potential.
@@ -66,7 +66,7 @@ We achieved the highest standard for our analysis work and presentation.
 ## 📉 What can we learn from crypto stock data?
 #### Exploratory Data Analysis, Data Visualization
 ##### Languages/tools used: Python: Pandas, Numpy, Matplotlib, Seaborn
-##### View my code [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/Crypto%20Stock%20Crash%20Exploratory%20Data%20Analysis.ipynb)
+##### View my full project code [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/Crypto%20Stock%20Crash%20Exploratory%20Data%20Analysis.ipynb)
 
 
 Here, I took the live price data of the top ten crypto stocks from Yahoo finance and sought to answer some questions as I explored it. 
@@ -87,7 +87,7 @@ Here, I took the live price data of the top ten crypto stocks from Yahoo finance
 ## 🧠 How can I best condense millions of data points across many different files? 
 #### Data Manipulation
 ##### Languages/tools used: Python: Pandas
-##### View my code [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/Psych%20Research%20.ipynb)
+##### View my full project code [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/Psych%20Research%20.ipynb)
 
 
 
@@ -98,7 +98,7 @@ Here, I combined 10+ .csv files that contained millions of points of raw data we
 
 ## 😷 How can we use COVID-19 survey data to identify good investments?
 #### Data Analysis, Business Application
-##### View my presentation [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/COVID-19%20Data%20Investment%20Project%20_%20Haris%20Hasan.pdf)
+##### View my full project presentation [here](https://github.com/harishasan001/data-sci-portfolio/blob/main/COVID-19%20Data%20Investment%20Project%20_%20Haris%20Hasan.pdf)
 
 
 Took a COVID-19 survey data dashboard and extensively analysed data points to identify investment oppportunities. 
